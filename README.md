@@ -1,5 +1,6 @@
 ### Hello, world! 👋
-Me chamo Davi e sou estudante de Desenvolvimento Web na **[Trybe](https://www.betrybe.com/)**.
+Me chamo Davi e sou estudante de Desenvolvimento Web na **[Trybe](https://www.betrybe.com/)**. Sou apaixonado por programação, estatística e finanças e procuro sempre aprender algo novo sobre essas áreas, apesar de estar bem mais focado em programação atualmente. Meu objetivo é, até 2024, começar a trabalhar em uma empresa de finanças na área de desenvolvimento de software.
+
 #### My Tools
 <div align=left>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width=40 height=40>
