@@ -20,3 +20,14 @@ Me chamo Davi e sou estudante de Desenvolvimento Web na **[Trybe](https://www.be
 
 #### My projects
 Coming soon
+
+### Goals to 2023
+
+- [x] Aprender TypeScript;
+- [x] Aprender Sass;
+- [ ] Aprender Node;
+- [ ] Aprender Angular;
+- [ ] Aprender Rust;
+- [ ] Aprender Inglês;
+- [ ] Aprender Java;
+- [ ] Concluir o curso da Trybe;
