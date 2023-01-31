@@ -1,16 +1,21 @@
-### Hi there 👋
+### Hello, world! 👋
+Me chamo Davi e sou estudante de Desenvolvimento Web na **[Trybe](https://www.betrybe.com/)**.
+#### My Tools
+<div align=left>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width=40 height=40>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width=40 height=40>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width=40 height=40>
+<img src="https://github.com/devicons/devicon/raw/master/icons/sass/sass-original.svg" width=40 height=40>
+<img src="https://github.com/devicons/devicon/raw/master/icons/figma/figma-original.svg" width=40 height=40>
+</div>
 
-<!--
-**DN4Davi/DN4Davi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### Learning
+<div align=left>
+<img src="https://github.com/devicons/devicon/raw/master/icons/nodejs/nodejs-original.svg" width=40 height=40>
+<img src="https://github.com/devicons/devicon/raw/master/icons/java/java-original.svg" width=40 height=40>
+<img src="https://github.com/devicons/devicon/raw/master/icons/spring/spring-original.svg" width=40 height=40>
+<img src="https://github.com/devicons/devicon/raw/master/icons/rust/rust-plain.svg" width=40 height=40>
+</div>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### My projects
+Coming soon
