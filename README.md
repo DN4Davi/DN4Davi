@@ -22,5 +22,6 @@ Coming soon
 
 - [ ] Aprender Node;
 - [ ] Aprender Rust;
-- [ ] Aprender Java;
+- [ ] Aprender Elixir;
+- [ ] Aprender Python;
 - [ ] Concluir o curso da Trybe;
