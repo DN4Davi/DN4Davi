@@ -10,9 +10,9 @@ Me chamo Davi e sou estudante de Desenvolvimento Web na **[Trybe](https://www.be
 
 #### My Learning Stack
 
-- **⌨️ Programming Languages:** Rust | Java | Python
+- **⌨️ Programming Languages:** Rust | Elixir | Python
 - **💅 Style tools:** Bootstrap | Material UI
-- **⚛️ Frameworks & Libraries:** Vue (Javascript) | Spring (Java)
+- **⚛️ Frameworks & Libraries:** Vue (Javascript)
 - **⚙️ JS Runtimes:** Node
 
 #### My projects
