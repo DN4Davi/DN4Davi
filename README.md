@@ -18,7 +18,7 @@ Me chamo Davi e sou estudante de Desenvolvimento Web na **[Trybe](https://www.be
 #### My projects
 Coming soon
 
-### Goals to 2023
+#### Goals to 2023
 
 - [ ] Aprender Node;
 - [ ] Aprender Rust;
