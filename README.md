@@ -18,6 +18,8 @@ Me chamo Davi e sou estudante de Desenvolvimento Web na **[Trybe](https://www.be
 #### My projects
 Coming soon
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dn4davi&layout=compact)]([https://github.com/anuraghazra/github-readme-stats](https://github.com/dn4davi/))
+
 #### Goals to 2023
 
 - [ ] Aprender Node;
