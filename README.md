@@ -16,7 +16,7 @@ Me chamo Davi e sou estudante de Desenvolvimento Web na **[Trybe](https://www.be
 - **⚙️ JS Runtimes:** Node
 
 #### My projects
-[Lessons Learned](https://github.com/DN4Davi/Lessons-Learned)
+- [Lessons Learned](https://github.com/DN4Davi/Lessons-Learned)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dn4davi&layout=compact)]([https://github.com/anuraghazra/github-readme-stats](https://github.com/dn4davi/))
 
