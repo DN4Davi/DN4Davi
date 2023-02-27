@@ -13,6 +13,7 @@ Me chamo Davi e sou estudante de Desenvolvimento Web na **[Trybe](https://www.be
 - **⌨️ Programming Languages:** Rust | Python
 - **💅 Style tools:** Bootstrap | Material UI
 - **⚛️ Frameworks & Libraries:** Vue (Javascript) | Next | Nest
+- **🧪 Tests Frameworks & Libraries:** Jest | React Testing Library | Cypress
 
 ### My Back-end Stack
 - **⌨️ Programming Languages:** Javascript | Typescript
