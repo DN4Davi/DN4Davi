@@ -5,15 +5,20 @@ Me chamo Davi e sou estudante de Desenvolvimento Web na **[Trybe](https://www.be
 
 - **⌨️ Programming Languages:** Javascript | Typescript
 - **💅 Style tools:** CSS | SASS | CSS Modules | Tailwind CSS | Styled Components
-- **⚛️ Frameworks & Libraries:** React | Angular
+- **⚛️ Frameworks & Libraries:** React
 - **📏 Design Tools:** Figma
 
 #### My Learning Stack
 
-- **⌨️ Programming Languages:** Rust | Elixir | Python
+- **⌨️ Programming Languages:** Rust | Python
 - **💅 Style tools:** Bootstrap | Material UI
-- **⚛️ Frameworks & Libraries:** Vue (Javascript)
+- **⚛️ Frameworks & Libraries:** Vue (Javascript) | Next | Nest
+
+### My Back-end Stack
+- **⌨️ Programming Languages:** Javascript | Typescript
+- **⚛️ Frameworks & Libraries:** Express
 - **⚙️ JS Runtimes:** Node
+
 
 #### My projects
 - [Lessons Learned](https://github.com/DN4Davi/Lessons-Learned)
@@ -22,8 +27,8 @@ Me chamo Davi e sou estudante de Desenvolvimento Web na **[Trybe](https://www.be
 
 #### Goals to 2023
 
-- [ ] Aprender Node;
+- [x] Aprender Node;
+- [ ] Aprender Nest;
 - [ ] Aprender Rust;
-- [ ] Aprender Elixir;
 - [ ] Aprender Python;
 - [ ] Concluir o curso da Trybe;
