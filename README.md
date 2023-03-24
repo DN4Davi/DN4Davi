@@ -1,32 +1,21 @@
-<span align='left'>
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=DN4Davi&show_icons=true&theme=dracula&count_private=true&hide=contribs">
 
-  ```js
-  import Dev from 'DN4Davi';
-  
-  class AboutMe extends Dev {
-    name = 'Davi N. de Azevedo';
-    age =  21;
-    livingIn = 'Rio de Janeiro - Brazil';
-  }
-  
-  class Working extends Skills {
-    languages = ['JavaScript', 'TypeScript', 'R'];
-    frameworks = ['Next', 'Express'];
-    libraries = ['React']
-    tests = ['Jest', 'RTL (React Testing Library)'];
-    stylization = ['CSS', 'SASS', 'Tailwind CSS', 'Styled Components']
-  }
-  
-  class Learning extends Skills {
-    languages = ['Python', 'Rust', 'Java'];
-    frameworks = ['Nest', 'Vue'];
-    tests = ['Cypress'];
-    stylization = ['Bootstrap'];
-  }
-  ```
-</span>
+<img src="https://img.shields.io/static/v1?label=Overview&message=DN4Davi&color=282a36&labelColor=dd6387&style=for-the-badge&logo=GitHub">
 
-<img align='right' src="https://github-readme-stats.vercel.app/api?username=DN4Davi&show_icons=true&theme=dracula&count_private=true">
+Hi, my name is Davi and I'm a Brazilian Front End Developer. My preferred tools are **React**, **SASS**, **CSS Modules** and **RTL** and I'm currently learning **Nest** and **Python**. I want to become a Full Stack Developer and learn **Java** and **Rust** soon.
+
+⌨️ Programming Languages: **JavaScript, TypeScript**.
+
+⚛️ Frameworks and Libraries: **React, Next, Express, RTL, Jest**.
+
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DN4Davi&layout=compact&theme=dracula" />
+
+💅 Style Tools: **SASS, CSS Modules, Tailwind CSS, Styled Components**.
+
+📖 Learning: **Nest, Python, Cypress**.
+
+⏰ in queue: **Java, Rust**.
+
 <!--
 ### Hello, world! 👋
 Me chamo Davi e sou estudante de Desenvolvimento Web na **[Trybe](https://www.betrybe.com/)**. Sou apaixonado por **programação**, **estatística** e **finanças** e procuro sempre aprender algo novo sobre essas áreas, apesar de estar bem mais focado em programação atualmente. Meu objetivo é, até 2024, começar a trabalhar em uma empresa de finanças na área de desenvolvimento de software.
