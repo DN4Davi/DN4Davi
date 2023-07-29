@@ -12,6 +12,6 @@ Hi, my name is Davi and I'm a Brazilian Front End Developer. My preferred tools 
 
 ⏰ in queue: **Java, Rust**.
 
-<img align="right" height=175 src="https://github-readme-stats-lac-delta.vercel.app/api/top-langs/?username=DN4Davi&layout=compact&theme=dracula" />
+<img align="right" height=175 src="http://github-readme-stats-lac-delta.vercel.app/api/top-langs/?username=DN4Davi&layout=compact&theme=dracula" />
 
-<img height=175 src="https://github-readme-stats-lac-delta.vercel.app/api?username=DN4Davi&show_icons=true&count_private=true&hide=contribs&theme=dracula">
+<img height=175 src="http://github-readme-stats-lac-delta.vercel.app/api?username=DN4Davi&show_icons=true&count_private=true&hide=contribs&theme=dracula">
