@@ -2,15 +2,15 @@
 
 Hi, my name is Davi and I'm a Brazilian Front End Developer. My preferred tools are **React**, **SASS**, **CSS Modules** and **RTL** and I'm currently learning **Nest** and **Python**. I want to become a Full Stack Developer and learn **Java** and **Rust** soon.
 
-⌨️ Programming Languages: **JavaScript, TypeScript**.
+⌨️ Programming Languages: **JavaScript, TypeScript, Java**.
 
 ⚛️ Frameworks and Libraries: **React, Next, Express, RTL, Jest**.
 
 💅 Style Tools: **SASS, CSS Modules, Tailwind CSS, Styled Components**.
 
-📖 Learning: **Nest, Python, Cypress**.
+📖 Learning: **Quarkus, Nest, Python, Cypress**.
 
-⏰ in queue: **Java, Rust**.
+⏰ in queue: **Rust**.
 
 <img align="right" height=175 src="http://github-readme-stats-lac-delta.vercel.app/api/top-langs/?username=DN4Davi&layout=compact&theme=dracula" />
 
