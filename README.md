@@ -1,17 +1,21 @@
 <img src="https://img.shields.io/static/v1?label=Overview&message=DN4Davi&color=282a36&labelColor=dd6387&style=for-the-badge&logo=GitHub">
 
-Hi, my name is Davi and I'm a Brazilian Front End Developer. My preferred tools are **React**, **SASS**, **CSS Modules** and **RTL** and I'm currently learning **Nest** and **Python**. I want to become a Full Stack Developer and learn **Java** and **Rust** soon.
+Hi, my name is Davi and I'm a Brazilian Full Stack Developer. My preferred tools are **Next.js**, **Tailwind CSS**, **Quarkus** and **Hibernate** and I'm currently learning **Python** and **Docker**.
 
 ⌨️ Programming Languages: **JavaScript, TypeScript, Java**.
 
-⚛️ Frameworks and Libraries: **React, Next, Express, RTL, Jest**.
+⚛️ Front End Frameworks and Libraries: **Next.js, Astro, React & Angular**.
 
-💅 Style Tools: **SASS, CSS Modules, Tailwind CSS, Styled Components**.
+💅 Style Tools: **Tailwind CSS, SASS & Styled Components**.
 
-📖 Learning: **Quarkus, Nest, Python, Cypress**.
+⚙️ Back End Frameworks and Libraries: **Quarkus, Express.js & Spring Boot**.
 
-⏰ in queue: **Rust**.
+🧪 Testing Tools: **Jest, JUnit, Vitest, Mocha + Chai & Cypress**.
 
-<img align="right" height=175 src="http://github-readme-stats-lac-delta.vercel.app/api/top-langs/?username=DN4Davi&layout=compact&theme=dracula" />
+📖 Learning: **Python & Docker**.
 
-<img height=175 src="http://github-readme-stats-lac-delta.vercel.app/api?username=DN4Davi&show_icons=true&count_private=true&hide=contribs&theme=dracula">
+⏰ in queue: **NestJS, Django & R**.
+
+<img align="right" height=175 src="https://github-readme-stats-lac-delta.vercel.app/api/top-langs/?username=DN4Davi&layout=compact&theme=dracula" />
+
+<img height=175 src="https://github-readme-stats-lac-delta.vercel.app/api?username=DN4Davi&show_icons=true&count_private=true&hide=contribs&theme=dracula">
